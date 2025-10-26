@@ -54,9 +54,17 @@ The notebook `intro.ipynb` includes:
 
 ---
 
-## 🧠 AI Summary Example
-> The Superstore dataset analysis revealed that Technology products drive the highest profits, with strong sales in the Western region. Customer segments differ significantly in profitability, and shipping delays impact specific categories. The Power BI dashboards visualize these patterns for improved decision-making.
+## 🧠 AI-Generated Business Insights Summary
 
+The data reveals that Technology is the top-performing category, driving the highest revenue and profit margins across all regions. The West region consistently outperforms others, contributing the largest share of total sales and profit — suggesting strong customer engagement and effective regional operations.
+
+Among customer segments, Corporate clients show higher average order values and profitability, while the Consumer segment contributes more volume but lower margins, highlighting opportunities for targeted pricing or loyalty programs.
+
+A clear seasonal trend emerges, with significant sales peaks in November and December, reflecting strong holiday-driven consumer demand. In contrast, the months following January display a moderate decline, indicating post-season normalization.
+
+From an operational perspective, Second Class and Standard Class shipping modes dominate order fulfillment, but longer shipping times in certain regions suggest potential supply chain optimization needs. The average shipping delay varies by region, offering opportunities to improve delivery efficiency.
+
+Overall, the analysis highlights that Technology products, Western operations, and Corporate customers are the most strategic profit drivers. With improved logistics and optimized promotions during peak months, the business could achieve a significant uplift in both sales and customer satisfaction.
 ---
 
 ## 🧩 Future Improvements
