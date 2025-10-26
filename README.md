@@ -38,7 +38,7 @@ It highlights my interest in **data management**, **business intelligence**, and
 ---
 
 ## 🧮 Jupyter Notebook
-The notebook `ai_sales_insights_dashboard.ipynb` includes:
+The notebook `intro.ipynb` includes:
 - Data loading and cleaning  
 - Exploratory data analysis (EDA)  
 - Visualizations  
